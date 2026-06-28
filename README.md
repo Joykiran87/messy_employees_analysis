@@ -53,7 +53,7 @@ Salary and Workforce analysis
 Slicers were added for interactivity (Department, Region, Status, Work Mode).
 
 **Dashboard Preview :-**
-![image](//)
+![image](https://github.com/Joykiran87/messy_employees_analysis/blob/2b39654c9f1048a72f92bc6505e11c766b41f5e1/Screenshot%202026-06-29%20005810.png)
 
 
 **Results & Insights :-**
