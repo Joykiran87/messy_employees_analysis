@@ -54,6 +54,7 @@ Slicers were added for interactivity (Department, Region, Status, Work Mode).
 
 **Dashboard Preview :-**
 ![image](https://github.com/Joykiran87/messy_employees_analysis/blob/1db7613a9ced24862f41ae57e9c289833f0a2769/Screenshot%202026-07-10%20033924.png)
+![image](https://github.com/Joykiran87/messy_employees_analysis/blob/8f6e7b93972a29efae2c2c19f875a4b1eff75784/Screenshot%202026-07-10%20034821.png)
 
 
 **Results & Insights :-**
